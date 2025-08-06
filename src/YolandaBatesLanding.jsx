@@ -19,10 +19,10 @@ export default function YolandaBatesLanding() {
         </div>
         <div>
           <img
-            src="/yolanda-bates-portrait.jpg"
-            alt="Yolanda Bates author portrait"
-            className="rounded-2xl shadow-xl w-full object-cover"
-          />
+            src="/PORTRAITYOLANDA.jpg"
+            alt="Yolanda Bates"
+            className="w-48 h-48 rounded-full object-cover mx-auto"
+/>
         </div>
       </section>
       <section className="bg-white text-[#333] py-16 px-6 md:px-20">
